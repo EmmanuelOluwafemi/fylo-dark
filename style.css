@@ -68,8 +68,8 @@ h2{
 .services{
     position: relative;
     min-height: 400px;
-    padding-top: 0.5rem;
-    margin-top: 1rem;
+    padding-top: 0;
+    margin-top: 0;
     padding-bottom: 7rem;
     z-index: 4;
 }
